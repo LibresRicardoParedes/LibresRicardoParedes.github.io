@@ -44,3 +44,77 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ###### Titulo 6
 
 Mi nombre es **Ricardo Paredes** me gusta ~~Software libre~~
+
+Las listas ordenadas son las siguientes:
+1. Lunes
+2. Martes
+1. Miercoles
+
+Las listas no ordenadas son las siguientes:
+- Manzanas
+- Peras 
+- Piñas
+
+##Links
+
+Quiero ir a [Google](http://www.google.com)
+
+Quiero ir a [Google](http://www.google.com "Me gustan las papayas") y se mostrará un mensaje encima del link
+
+Imagen
+
+![Carro](https://www.adslzone.net/app/uploads/2019/04/borrar-fondo-imagen.jpg "Otro mensaje")
+![Carro1](https://www.adslzone.net/app/uploads/2019/04/borrar-fondo-imagen.jpg)
+
+<img src= "https://www.adslzone.net/app/uploads/2019/04/borrar-fondo-imagen.jpg" height= "300px">
+
+## Código
+En `python` se puede crear vvariables vacías
+```python
+print("Hola mundo")
+```
+
+```kotlin
+val nombre= "Ricardo"
+```
+
+```javascript
+function comer(){
+}
+```
+
+```xml
+<hola fonetica= "3"> Como estas</hola>
+```
+
+```
+$ apt get install xxxx
+$ echo HOLA
+$ apt update
+```
+
+## Tablas
+| Nombre | Apellido|
+| ---    | ---     |
+| Ricardo| Paredes |
+| Lisseth| Tubon   |
+
+
+## Quotes
+
+>Laaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaarguisima y pues mas y mas 
+>igual sigo siendo parte de la cita 
+
+Otra cita  
+> uno
+> dos
+> tres
+> ** Ricardo** `Paredes`
+
+---
+
+Contenido
+
+---
+
+<p>Hola amigos **Como estas** <strong>Como estas</strong></p>
